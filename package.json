@@ -1,0 +1,23 @@
+{
+  "name": "rs-school-2018-q1-tasks",
+  "version": "1.0.0",
+  "description": "Completed tsks of the 1st stage of RS-School 2018 Q1",
+  "main": " ",
+  "scripts": {
+    "test": "mocha \"*/test.js\"",
+    "test_file": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terapro/rs-school-2018-q1-tasks.git"
+  },
+  "author": "Sergey Dmitriev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terapro/rs-school-2018-q1-tasks/issues"
+  },
+  "homepage": "https://github.com/terapro/rs-school-2018-q1-tasks#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
